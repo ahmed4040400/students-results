@@ -1,0 +1,63 @@
+  Project5.AdminDashboard.resources - Embedded, ContainedInManifestFile, 
+  Project5.AssignInstructorForm.resources - Embedded, ContainedInManifestFile, 
+  Project5.LoginForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project5, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project5.DatabaseHelper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    VerifyLogin(String, String, UserRole&, Int32&): PrivateScope, Public, HideBySig
+    GetUserDetails(Int32): PrivateScope, Public, HideBySig
+    GetUsersByRole(UserRole): PrivateScope, Public, HideBySig
+    AddUser(String, String, String, Int32, UserRole): PrivateScope, Public, HideBySig
+    GetAllCourses(): PrivateScope, Public, HideBySig
+    AddCourse(String, String): PrivateScope, Public, HideBySig
+    AssignInstructorToCourse(Int32, Int32): PrivateScope, Public, HideBySig
+    GetInstructorCourses(Int32): PrivateScope, Public, HideBySig
+    GetStudentsForCourse(Int32): PrivateScope, Public, HideBySig
+    SaveStudentResult(Int32, Int32, Double): PrivateScope, Public, HideBySig
+    GetStudentResults(Int32): PrivateScope, Public, HideBySig
+Class Project5.AddUserForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Project5.DatabaseHelper, Project5.UserRole): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project5.AddCourseForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Project5.DatabaseHelper): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project5.AssignInstructorForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Project5.DatabaseHelper, Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project5.AdminDashboard: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, Project5.DatabaseHelper): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project5.AssignResultForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Project5.DatabaseHelper, Int32, System.String, Int32, System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project5.InstructorDashboard: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, Project5.DatabaseHelper): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project5.StudentDashboard: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, Project5.DatabaseHelper): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project5.LoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Struct Project5.UserRole: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Project5.UserRole Admin = 0 : Public, Static, Literal, HasDefault
+    Project5.UserRole Instructor = 1 : Public, Static, Literal, HasDefault
+    Project5.UserRole Student = 2 : Public, Static, Literal, HasDefault

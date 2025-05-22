@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shentenawy\\source\\repos\\Project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\InstructorDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\InstructorDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\StudentDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AdminDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignResultForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AssignResultForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AssignInstructorForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AssignInstructorForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\DatabaseHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\DatabaseHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AdminDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddUserForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AddUserForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddCourseForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AddCourseForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddUserForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AddUserForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddCourseForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AddCourseForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignResultForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AssignResultForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AssignInstructorForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AdminDashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\InstructorDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\InstructorDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\StudentDashboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AdminDashboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\AssignInstructorForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BF95F6F-AD5B-D704-D277-C4A4A47D46A2}|Project5\\Project5.vcxproj|solutionrelative:Project5\\StudentDashboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignInstructorForm.resx",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.resx",
+              "RelativeDocumentMoniker": "Project5\\AssignInstructorForm.resx",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.resx",
+              "RelativeToolTip": "Project5\\AssignInstructorForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-22T09:11:33.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\LoginForm.h",
+              "RelativeDocumentMoniker": "Project5\\LoginForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\LoginForm.h [Design]",
+              "RelativeToolTip": "Project5\\LoginForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T06:49:19.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboard.h [Design]",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.h",
+              "RelativeDocumentMoniker": "Project5\\AdminDashboard.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.h [Design]*",
+              "RelativeToolTip": "Project5\\AdminDashboard.h [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:33:11.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDashboard.h [Design]",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.h",
+              "RelativeDocumentMoniker": "Project5\\StudentDashboard.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.h [Design]",
+              "RelativeToolTip": "Project5\\StudentDashboard.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:32:31.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssignInstructorForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.h",
+              "RelativeDocumentMoniker": "Project5\\AssignInstructorForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.h [Design]",
+              "RelativeToolTip": "Project5\\AssignInstructorForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:30:58.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignResultForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignResultForm.h",
+              "RelativeDocumentMoniker": "Project5\\AssignResultForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignResultForm.h [Design]",
+              "RelativeToolTip": "Project5\\AssignResultForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:30:55.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorDashboard.h [Design]",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\InstructorDashboard.h",
+              "RelativeDocumentMoniker": "Project5\\InstructorDashboard.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\InstructorDashboard.h [Design]",
+              "RelativeToolTip": "Project5\\InstructorDashboard.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:32:53.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\DatabaseHelper.h",
+              "RelativeDocumentMoniker": "Project5\\DatabaseHelper.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\DatabaseHelper.h",
+              "RelativeToolTip": "Project5\\DatabaseHelper.h",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAnwIQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T02:46:56.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.h",
+              "RelativeDocumentMoniker": "Project5\\AdminDashboard.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.h*",
+              "RelativeToolTip": "Project5\\AdminDashboard.h*",
+              "ViewState": "AgIAANABAAAAAAAAAAAnwNsBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T03:13:31.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddUserForm.h",
+              "RelativeDocumentMoniker": "Project5\\AddUserForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddUserForm.h [Design]",
+              "RelativeToolTip": "Project5\\AddUserForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:30:59.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCourseForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddCourseForm.h",
+              "RelativeDocumentMoniker": "Project5\\AddCourseForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddCourseForm.h [Design]",
+              "RelativeToolTip": "Project5\\AddCourseForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:31:00.507Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\LoginForm.h",
+              "RelativeDocumentMoniker": "Project5\\LoginForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\LoginForm.h",
+              "RelativeToolTip": "Project5\\LoginForm.h",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAnwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T06:58:48.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddUserForm.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddUserForm.h",
+              "RelativeDocumentMoniker": "Project5\\AddUserForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddUserForm.h",
+              "RelativeToolTip": "Project5\\AddUserForm.h",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAnwAABAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T03:13:39.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddCourseForm.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddCourseForm.h",
+              "RelativeDocumentMoniker": "Project5\\AddCourseForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AddCourseForm.h",
+              "RelativeToolTip": "Project5\\AddCourseForm.h",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAnwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:31:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssignResultForm.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignResultForm.h",
+              "RelativeDocumentMoniker": "Project5\\AssignResultForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignResultForm.h",
+              "RelativeToolTip": "Project5\\AssignResultForm.h",
+              "ViewState": "AgIAANwAAAAAAAAAAAAnwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T04:50:38.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssignInstructorForm.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.h",
+              "RelativeDocumentMoniker": "Project5\\AssignInstructorForm.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.h",
+              "RelativeToolTip": "Project5\\AssignInstructorForm.h",
+              "ViewState": "AgIAANoAAAAAAAAAAAAnwP8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T02:47:55.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.resx",
+              "RelativeDocumentMoniker": "Project5\\AdminDashboard.resx",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.resx*",
+              "RelativeToolTip": "Project5\\AdminDashboard.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-20T04:51:34.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InstructorDashboard.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\InstructorDashboard.h",
+              "RelativeDocumentMoniker": "Project5\\InstructorDashboard.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\InstructorDashboard.h",
+              "RelativeToolTip": "Project5\\InstructorDashboard.h",
+              "ViewState": "AgIAACsBAAAAAAAAAAAnwFABAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T05:06:42.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentDashboard.cpp",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.cpp",
+              "RelativeDocumentMoniker": "Project5\\StudentDashboard.cpp",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.cpp",
+              "RelativeToolTip": "Project5\\StudentDashboard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T02:46:41.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminDashboard.cpp",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.cpp",
+              "RelativeDocumentMoniker": "Project5\\AdminDashboard.cpp",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AdminDashboard.cpp",
+              "RelativeToolTip": "Project5\\AdminDashboard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T02:46:38.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssignInstructorForm.cpp",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.cpp",
+              "RelativeDocumentMoniker": "Project5\\AssignInstructorForm.cpp",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\AssignInstructorForm.cpp",
+              "RelativeToolTip": "Project5\\AssignInstructorForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T02:46:37.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\main.cpp",
+              "RelativeDocumentMoniker": "Project5\\main.cpp",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\main.cpp",
+              "RelativeToolTip": "Project5\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T06:52:14.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentDashboard.h",
+              "DocumentMoniker": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.h",
+              "RelativeDocumentMoniker": "Project5\\StudentDashboard.h",
+              "ToolTip": "C:\\Users\\shentenawy\\source\\repos\\Project5\\Project5\\StudentDashboard.h",
+              "RelativeToolTip": "Project5\\StudentDashboard.h",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAWwNcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T08:32:39.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

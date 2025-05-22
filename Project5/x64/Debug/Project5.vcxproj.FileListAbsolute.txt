@@ -1,0 +1,5 @@
+C:\Users\shentenawy\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\shentenawy\source\repos\Project5\Project5\x64\Debug\Project5.AdminDashboard.resources
+C:\Users\shentenawy\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\shentenawy\source\repos\Project5\Project5\x64\Debug\Project5.LoginForm.resources
+C:\Users\shentenawy\source\repos\Project5\Project5\x64\Debug\Project5.AssignInstructorForm.resources
